@@ -1,8 +1,8 @@
 ## Hi I'm Dhruwang here 👋
 
-🎓 Computer Science & Software Engineering Grad from UWO
-🔍 Focusing on Backend Development with little Frontend knowledge
-👨‍💻 Pursuing a career as a Software Engineer and Developer
+🎓 Computer Science & Software Engineering Grad from UWO <br/>
+🔍 Focusing on Backend Development with little Frontend knowledge <br/>
+👨‍💻 Pursuing a career as a Software Engineer and Developer <br/>
 
 ### Tech Stack
 <img align='left' />
